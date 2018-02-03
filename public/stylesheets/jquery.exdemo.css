@@ -1,0 +1,19 @@
+pre.ex-demo{
+	padding:8px;
+	background:#f8f8f8;
+	border:solid 4px #e8e8e8;
+	display: none !important;
+}
+pre.ex-demo code,
+textarea.ex-demo{
+	font-family:Arial;
+	font-size:13px;
+	display: none !important;
+}
+textarea.ex-demo{
+	padding:8px;
+	width:500px;
+	border:solid 1px #e8e8e8;
+	border-color:#a8a8a8 #e8e8e8 #e8e8e8 #a8a8a8;
+	display: none !important;
+}
